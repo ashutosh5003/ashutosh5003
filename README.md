@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashutosh5003](https://github.com/ashutosh5003)
 
-- 💬 Ask me about **MERN, C++, OOPS,**
+- 💬 Ask me about **MERN, C++, OOPS, MySQL, DSA**
 
 - 📫 How to reach me **ashutoshwork05@gmail.com**
 
